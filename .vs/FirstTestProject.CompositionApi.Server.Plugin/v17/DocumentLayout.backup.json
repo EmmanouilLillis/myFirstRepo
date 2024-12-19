@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\getfirstnamelastnameexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|solutionrelative:getfirstnamelastnameexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FirstTestProject.CompositionApi.Server.Plugin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\getpeoplemanaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|solutionrelative:getpeoplemanaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\postupdateidentityexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|solutionrelative:postupdateidentityexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\postcreateidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|solutionrelative:postcreateidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970E7EA0-C656-4E02-85CF-7D434E15DE89}|FirstTestProject.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\apiprojects\\firsttestproject.compositionapi.server.plugin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstTestProject.CompositionApi.Server.Plugin",
+              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\FirstTestProject.CompositionApi.Server.Plugin.csproj",
+              "RelativeDocumentMoniker": "FirstTestProject.CompositionApi.Server.Plugin.csproj",
+              "ToolTip": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\FirstTestProject.CompositionApi.Server.Plugin.csproj",
+              "RelativeToolTip": "FirstTestProject.CompositionApi.Server.Plugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T11:41:03.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostUpdateIdentityExample.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\PostUpdateIdentityExample.cs",
+              "RelativeDocumentMoniker": "PostUpdateIdentityExample.cs",
+              "ToolTip": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\PostUpdateIdentityExample.cs",
+              "RelativeToolTip": "PostUpdateIdentityExample.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:58:49.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostCreateIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\PostCreateIdentity.cs",
+              "RelativeDocumentMoniker": "PostCreateIdentity.cs",
+              "ToolTip": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\PostCreateIdentity.cs",
+              "RelativeToolTip": "PostCreateIdentity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:20:46.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPeopleManaged.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\GetPeopleManaged.cs",
+              "RelativeDocumentMoniker": "GetPeopleManaged.cs",
+              "ToolTip": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\GetPeopleManaged.cs",
+              "RelativeToolTip": "GetPeopleManaged.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:59:16.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetFirstNameLastNameExample.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\GetFirstNameLastNameExample.cs",
+              "RelativeDocumentMoniker": "GetFirstNameLastNameExample.cs",
+              "ToolTip": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\FirstTestProject.CompositionApi.Server.Plugin\\GetFirstNameLastNameExample.cs",
+              "RelativeToolTip": "GetFirstNameLastNameExample.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:38:31.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
